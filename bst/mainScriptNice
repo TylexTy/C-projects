@@ -1,0 +1,111 @@
+Script started on Thu 15 Nov 2018 06:36:04 PM EST
+bash-4.2$ pwd
+/gaul/s1/student/2018/tbulley/Courses/CS2211a/Asns/asn4
+bash-4.2$ date
+Thu Nov 15 18:36:18 EST 2018
+bash-4.2$ who am i
+tbulley  pts/1        2018-11-15 18:36
+bash-4.2$ ./main
+Please enter size of the tree: 3
+Enter name id and data separated by a space
+hello 4 5
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+bye 5 6
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+good 7 8
+ERROR: tree is full
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+bad 8 9
+ERROR: tree is full
+Do you wish to continue? (Y or N) : N
+(bye                 5)    6
+(hello               4)    5
+bash-4.2$ ./MAIN
+bash: ./MAIN: No such file or directory
+bash-4.2$ ./main
+Please enter size of the tree: 20
+Enter name id and data separated by a space
+Once 1 11
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+Upon 22 2
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+a 3 33
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+Time 4 44
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+is 5 55
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+filmed 6 66
+ERROR: tree is full
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+in 7 77
+ERROR: tree is full
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+Vancouver 8 88
+Do you wish to continue? (Y or N) : N
+(Once                1)   11
+(Time                4)   44
+(Upon               22)    2
+(Vancouver           8)   88
+(a                   3)   33
+(is                  5)   55
+bash-4.2$ ./main
+Please enter size of the tree: 1000
+Enter name id and data separated by a space
+Once 1 11
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+Upon 22 2
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+a 3 33
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+Time 4 44
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+is 5 55
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+filmed 6 66
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+in 7 77
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+Vancouver 8 88
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+! 99 9
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+Once 5 50
+Do you wish to continue? (Y or N) : Y
+Enter name id and data separated by a space
+Once 1 10
+ERROR: tree is full
+Do you wish to continue? (Y or N) : N
+(!                  99)    9
+(Once                1)   11
+(Once                5)   50
+(Time                4)   44
+(Upon               22)    2
+(Vancouver           8)   88
+(a                   3)   33
+(filmed              6)   66
+(in                  7)   77
+(is                  5)   55
+bash-4.2$ exit
+exit
+
+Script done on Thu 15 Nov 2018 06:42:34 PM EST
