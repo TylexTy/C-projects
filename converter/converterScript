@@ -1,0 +1,143 @@
+Script started on Tue 16 Oct 2018 04:26:26 PM EDT
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/tbulley/Courses/CS2211a/Asns/asn2
+bash-4.2$ w[Kdate
+Tue Oct 16 16:26:34 EDT 2018
+bash-4.2$ who am i
+tbulley  pts/14       2018-10-16 16:26
+bash-4.2$ ./converter
+
+What would you like to do?
+Press 1 for conversion between Kilometer and Mile
+Press 2 for conversion between Meter and Feet
+Press 3 for conversion between Centimeter and Inch
+Press 4 for conversion between Celsius and Fahrenheit
+Press 5 to Quit
+Enter a number (1-5) : 6
+
+What would you like to do?
+Press 1 for conversion between Kilometer and Mile
+Press 2 for conversion between Meter and Feet
+Press 3 for conversion between Centimeter and Inch
+Press 4 for conversion between Celsius and Fahrenheit
+Press 5 to Quit
+Enter a number (1-5) : 1
+Enter K for conversion from Kilometer to Mile
+or enter M for conversion from Mile to Kilometer
+H
+Enter K for conversion from Kilometer to Mile
+or enter M for conversion from Mile to Kilometer
+K
+Enter the amount in Kilometers to convert to Miles: 23
+23.00 kilometers is 14.29 miles
+Press any letter for menu: A
+
+What would you like to do?
+Press 1 for conversion between Kilometer and Mile
+Press 2 for conversion between Meter and Feet
+Press 3 for conversion between Centimeter and Inch
+Press 4 for conversion between Celsius and Fahrenheit
+Press 5 to Quit
+Enter a number (1-5) : 1 1
+Enter K for conversion from Kilometer to Mile
+or enter M for conversion from Mile to Kilometer
+m M
+Enter the amount in Miles to convert to Kilometers: 23.4
+23.40 miles is 37.66 kms
+Press any letter for menu: S
+
+What would you like to do?
+Press 1 for conversion between Kilometer and Mile
+Press 2 for conversion between Meter and Feet
+Press 3 for conversion between Centimeter and Inch
+Press 4 for conversion between Celsius and Fahrenheit
+Press 5 to Quit
+Enter a number (1-5) : 2
+Enter M for conversion from Meter to Feet
+or enter F for conversion from Feet to Meter
+m M
+Enter the amount in Meters to convert to Feet: 22.22
+22.22 meters is 72.90 feet
+Press any letter for menu: Q
+
+What would you like to do?
+Press 1 for conversion between Kilometer and Mile
+Press 2 for conversion between Meter and Feet
+Press 3 for conversion between Centimeter and Inch
+Press 4 for conversion between Celsius and Fahrenheit
+Press 5 to Quit
+Enter a number (1-5) : 2
+Enter M for conversion from Meter to Feet
+or enter F for conversion from Feet to Meter
+F
+Enter the amount in Feet to convert to Meters: 24.555
+24.56 feet is 7.48 meters
+Press any letter for menu: Q
+
+What would you like to do?
+Press 1 for conversion between Kilometer and Mile
+Press 2 for conversion between Meter and Feet
+Press 3 for conversion between Centimeter and Inch
+Press 4 for conversion between Celsius and Fahrenheit
+Press 5 to Quit
+Enter a number (1-5) : 3
+Enter C for conversion form Centimeter to Inch
+or enter I for conversion from Inch to Centimeter
+C
+Enter the amount in Centimeters to convert to Inches: 12.4
+12.40 cm is 4.88 in
+Press any letter for menu: Q
+
+What would you like to do?
+Press 1 for conversion between Kilometer and Mile
+Press 2 for conversion between Meter and Feet
+Press 3 for conversion between Centimeter and Inch
+Press 4 for conversion between Celsius and Fahrenheit
+Press 5 to Quit
+Enter a number (1-5) : 3
+Enter C for conversion form Centimeter to Inch
+or enter I for conversion from Inch to Centimeter
+I
+Enter the amount in Inches to convert to Centimeters: 20
+20.00 in is 50.80 cm
+Press any letter for menu: Q
+
+What would you like to do?
+Press 1 for conversion between Kilometer and Mile
+Press 2 for conversion between Meter and Feet
+Press 3 for conversion between Centimeter and Inch
+Press 4 for conversion between Celsius and Fahrenheit
+Press 5 to Quit
+Enter a number (1-5) : 4
+Enter C for conversion from Celsius to Fahrenheit
+Enter F for conversion from Fehrenheit to Celsius
+C
+Enter the amount in Celsius to convert to Fahrenheit: 42 5
+45.00 C is 113.00 F
+Press any letter for menu: D
+
+What would you like to do?
+Press 1 for conversion between Kilometer and Mile
+Press 2 for conversion between Meter and Feet
+Press 3 for conversion between Centimeter and Inch
+Press 4 for conversion between Celsius and Fahrenheit
+Press 5 to Quit
+Enter a number (1-5) : 4
+Enter C for conversion from Celsius to Fahrenheit
+Enter F for conversion from Fehrenheit to Celsius
+F
+Enter the amount in Fahrenheit to convert to Celsius: 113
+113.00 F is 45.00 C
+Press any letter for menu: Q
+
+What would you like to do?
+Press 1 for conversion between Kilometer and Mile
+Press 2 for conversion between Meter and Feet
+Press 3 for conversion between Centimeter and Inch
+Press 4 for conversion between Celsius and Fahrenheit
+Press 5 to Quit
+Enter a number (1-5) : 5
+bash-4.2$ exit
+exit
+
+Script done on Tue 16 Oct 2018 04:31:21 PM EDT
